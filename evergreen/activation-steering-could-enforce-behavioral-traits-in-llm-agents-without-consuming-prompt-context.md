@@ -9,7 +9,7 @@ aliases:
 
 # Activation steering could enforce behavioral traits in LLM agents without consuming prompt context
 
-Source: [[multi-agent-communication-challenges|Multi-agent communication challenges]]
+Source: [[thought-session-multi-agent-communication-challenges|Thought Session: Multi-Agent Communication Challenges]]
 
 The standard approach to controlling agent behavior in multi-agent systems is through prompts: you write instructions that specify how assertive, deferential, or collaborative an agent should be. But prompts are text, and text consumes context window. As behavioral specifications grow more nuanced — adjusting deference based on who the agent is talking to, modulating assertiveness based on task urgency, shifting collaboration style based on group composition — the prompt overhead becomes a real engineering constraint. Worse, prompt-based behavioral guidelines are fragile: they compete with task instructions for the model's attention and can be overridden or ignored under pressure.
 

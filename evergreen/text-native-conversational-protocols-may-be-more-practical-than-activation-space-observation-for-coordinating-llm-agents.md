@@ -9,7 +9,7 @@ aliases:
 
 # Text-native conversational protocols may be more practical than activation-space observation for coordinating LLM agents
 
-Source: [[multi-agent-communication-challenges|Multi-agent communication challenges]]
+Source: [[thought-session-multi-agent-communication-challenges|Thought Session: Multi-Agent Communication Challenges]]
 
 There are two competing approaches to coordinating turn-taking and conversation flow among LLM agents. The first is activation-space observation: reading the internal representations of other models to detect signals analogous to human facial cues and body language — a rich but technically demanding approach that requires local model access and is impossible through commercial LLM APIs. The second is text-native conversational protocols: designing explicit turn markers, handoff signals, and structured metadata that agents include in their text output — like how humans coordinate effectively in Slack, email, and asynchronous collaboration without any nonverbal cues at all.
 

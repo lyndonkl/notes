@@ -9,7 +9,7 @@ aliases:
 
 # Institutional templates for AI agents should constrain response space not prescribe responses
 
-Source: [[is-otp-the-right-fit-for-multi-agent-ai-architecture|Is OTP the right fit for multi-agent AI architecture?]]
+Source: [[thought-session-otp-for-multi-agent-ai|Thought Session: Is OTP the Right Fit for Multi-Agent AI Architecture?]]
 
 The Evans et al. paper argues that scalable AI alignment requires institutional templates — persistent structures of roles, norms, and protocols that govern agent behavior. But the comparison with OTP reveals that not all institutional templates are equal. OTP-style templates are deterministic supervision specs: if X happens, do Y. These are recipe cards. The institutional templates that multi-agent AI actually needs are closer to organizational norms and principles — guidelines that constrain the space of possible responses without prescribing the exact response.
 

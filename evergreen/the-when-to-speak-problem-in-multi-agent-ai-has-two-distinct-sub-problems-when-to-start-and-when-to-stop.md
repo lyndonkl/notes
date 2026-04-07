@@ -9,7 +9,7 @@ aliases:
 
 # The when-to-speak problem in multi-agent AI has two distinct sub-problems — when to start and when to stop
 
-Source: [[multi-agent-communication-challenges|Multi-agent communication challenges]]
+Source: [[thought-session-multi-agent-communication-challenges|Thought Session: Multi-Agent Communication Challenges]]
 
 Coordinating conversation among multiple LLM agents requires solving two fundamentally different problems that are often conflated. The when-to-start problem is about an agent recognizing that it should contribute — that the conversation has reached a point where its expertise, perspective, or role is relevant. This is an external signal problem: the agent's observer module monitors the conversational environment and identifies triggers like direct questions, topic relevance, or conversational pauses.
 

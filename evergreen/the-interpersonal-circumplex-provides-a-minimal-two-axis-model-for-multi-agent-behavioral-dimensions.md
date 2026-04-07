@@ -9,7 +9,7 @@ aliases:
 
 # The Interpersonal Circumplex provides a minimal two-axis model for multi-agent behavioral dimensions
 
-Source: [[multi-agent-communication-challenges|Multi-agent communication challenges]]
+Source: [[thought-session-multi-agent-communication-challenges|Thought Session: Multi-Agent Communication Challenges]]
 
 The Interpersonal Circumplex, a well-established model from social psychology, reduces the full space of interpersonal behavior to two orthogonal axes: Agency (dominance vs. submission) and Communion (warmth vs. hostility). Every interpersonal behavior can be located as a point in this two-dimensional space. A directive leader is high-agency, moderate-communion. A supportive collaborator is moderate-agency, high-communion. A passive-aggressive underminer is low-agency, low-communion.
 

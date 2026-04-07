@@ -9,7 +9,7 @@ aliases:
 
 # Enforcing behavioral norms in LLM agents requires a three-stage research pipeline
 
-Source: [[multi-agent-communication-challenges|Multi-agent communication challenges]]
+Source: [[thought-session-multi-agent-communication-challenges|Thought Session: Multi-Agent Communication Challenges]]
 
 The problem of enforcing behavioral norms in multi-agent LLM systems without relying on prompts or hardcoded rules decomposes into three sequential research stages, each with its own dependencies and open questions. This pipeline emerged from reasoning about what would need to be true for activation steering to work as a practical enforcement mechanism.
 

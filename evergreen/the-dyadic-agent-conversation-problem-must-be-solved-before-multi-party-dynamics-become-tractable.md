@@ -9,7 +9,7 @@ aliases:
 
 # The dyadic agent conversation problem must be solved before multi-party dynamics become tractable
 
-Source: [[multi-agent-communication-challenges|Multi-agent communication challenges]]
+Source: [[thought-session-multi-agent-communication-challenges|Thought Session: Multi-Agent Communication Challenges]]
 
 Multi-party conversation among LLM agents is not simply the two-agent case scaled up. Group dynamics introduce emergent phenomena that don't exist in dyadic exchange: coalition formation, bystander effects (everyone assumes someone else will respond), information cascades (anchoring on the first confident statement), and the gap between shared knowledge and common knowledge. The when-to-speak problem also changes qualitatively — in a two-party exchange, silence is unambiguous; in a five-agent conversation, one agent's silence could mean thinking, deferring, disengagement, or having nothing to add.
 

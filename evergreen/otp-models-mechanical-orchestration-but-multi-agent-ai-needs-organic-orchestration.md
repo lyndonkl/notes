@@ -9,7 +9,7 @@ aliases:
 
 # OTP models mechanical orchestration but multi-agent AI needs organic orchestration
 
-Source: [[is-otp-the-right-fit-for-multi-agent-ai-architecture|Is OTP the right fit for multi-agent AI architecture?]]
+Source: [[thought-session-otp-for-multi-agent-ai|Thought Session: Is OTP the Right Fit for Multi-Agent AI Architecture?]]
 
 OTP is organizational science applied to process management — supervision hierarchies, role separation between workers and supervisors, defined restart strategies, dynamic team composition. But it sits at the mechanical end of the organizational spectrum: deterministic rules that prescribe exactly what happens when a process fails. If crash, then restart with strategy X. If too many restarts, escalate to parent. Binary states: alive or dead.
 

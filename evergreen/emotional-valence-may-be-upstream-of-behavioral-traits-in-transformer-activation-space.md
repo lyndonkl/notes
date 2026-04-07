@@ -9,7 +9,7 @@ aliases:
 
 # Emotional valence may be upstream of behavioral traits in transformer activation space
 
-Source: [[multi-agent-communication-challenges|Multi-agent communication challenges]]
+Source: [[thought-session-multi-agent-communication-challenges|Thought Session: Multi-Agent Communication Challenges]]
 
 Anthropic's research on transformer circuits identified 171 distinct emotion-like vectors in model activation space and demonstrated that these vectors are causally influential — dampening or amplifying them changes model behavior in predictable ways. This finding challenges the assumption that behavioral traits (assertiveness, agreeableness, dominance) are the right level of abstraction for activation steering in multi-agent systems. If emotional valence is upstream of behavioral traits in the causal chain within the model's internal representations, then steering a small number of emotional dimensions might cascade into the full range of behavioral traits you actually want.
 

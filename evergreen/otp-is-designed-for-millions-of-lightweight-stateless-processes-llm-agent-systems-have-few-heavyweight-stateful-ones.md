@@ -9,7 +9,7 @@ aliases:
 
 # OTP is designed for millions of lightweight stateless processes — LLM agent systems have few heavyweight stateful ones
 
-Source: [[is-otp-the-right-fit-for-multi-agent-ai-architecture|Is OTP the right fit for multi-agent AI architecture?]]
+Source: [[thought-session-otp-for-multi-agent-ai|Thought Session: Is OTP the Right Fit for Multi-Agent AI Architecture?]]
 
 OTP's fault tolerance model rests on a core assumption: that process state is cheap to reconstruct. When a GenServer crashes, the supervisor calls init/1 fresh — internal state and mailbox are lost. This works brilliantly for telecom switches, chat servers, and IoT brokers where processes are stateless or derive state from external sources. But LLM-based AI agents accumulate rich conversational context, memory, and task progress that cannot be cheaply reconstructed. A crash that wipes an agent's accumulated intelligence is not a recoverable event without an explicit persistence layer — and once you add that layer, OTP's supervision model offers little beyond what Kubernetes or systemd provides.
 

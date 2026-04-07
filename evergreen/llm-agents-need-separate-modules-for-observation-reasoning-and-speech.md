@@ -9,7 +9,7 @@ aliases:
 
 # LLM agents need separate modules for observation reasoning and speech
 
-Source: [[multi-agent-communication-challenges|Multi-agent communication challenges]]
+Source: [[thought-session-multi-agent-communication-challenges|Thought Session: Multi-Agent Communication Challenges]]
 
 An LLM agent participating in multi-agent conversation needs at least three distinct modules sharing a global workspace: an observer that monitors the conversational environment, a thinker that reasons internally about what is happening and what to do, and a speaker that synthesizes the thinker's output into appropriate communication for other agents. This mirrors Global Workspace Theory from cognitive science, where consciousness arises from a shared workspace that broadcasts to specialized processors.
 
