@@ -92,6 +92,10 @@ One unresolved frontier remains honestly visible at the end of these arcs: human
 - [[engineers-underestimate-language-model-power-because-its-load-bearing-mechanism-lives-in-information-theory-rather-than-engineering|Engineers underestimate language model power because its load-bearing mechanism lives in information theory rather than engineering]]
 - [[text-is-harder-for-engineers-to-perceive-as-a-composable-substrate-than-code-even-though-the-underlying-abstraction-practice-transfers-cleanly|Text is harder for engineers to perceive as a composable substrate than code even though the underlying abstraction practice transfers cleanly]]
 
+**Pedagogical underpinning — How attention actually works (in plain language):**
+- [[attention-in-transformers-is-keys-that-advertise-queries-that-ask-and-values-that-get-pulled-in-if-attention-selects-you|Attention in transformers is keys that advertise queries that ask and values that get pulled in if attention selects you]]
+- [[stacking-attention-layers-tends-to-build-a-hierarchy-from-local-structure-to-abstract-concepts-though-layer-boundaries-are-fuzzy|Stacking attention layers tends to build a hierarchy from local structure to abstract concepts though layer boundaries are fuzzy]]
+
 **Arc 5 — Future digital economy and the labor shift:**
 - [[the-digital-economy-will-need-fewer-specialists-and-more-systems-thinking-generalists-who-design-and-orchestrate-agents|The digital economy will need fewer specialists and more systems-thinking generalists who design and orchestrate agents]]
 - [[systems-engineering-skill-of-designing-how-teams-of-agents-collaborate-across-functional-domains-will-be-the-high-value-engineering-skill-of-the-ai-native-digital-economy|Systems-engineering skill of designing how teams of agents collaborate across functional domains will be the high-value engineering skill of the AI-native digital economy]]
