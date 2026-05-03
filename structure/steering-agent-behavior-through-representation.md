@@ -14,6 +14,7 @@ Can LLM agent behavior be controlled at the representation level (activation spa
 - [[the-interpersonal-circumplex-provides-a-minimal-two-axis-model-for-multi-agent-behavioral-dimensions|The Interpersonal Circumplex provides a minimal two-axis model for multi-agent behavioral dimensions]] — Proposes Agency and Communion as the two orthogonal axes that generate the full range of interpersonal behavior, collapsing a combinatorial problem into two parameters
 - [[emotional-valence-may-be-upstream-of-behavioral-traits-in-transformer-activation-space|Emotional valence may be upstream of behavioral traits in transformer activation space]] — Suggests that steering emotional dimensions (fewer, more fundamental) might cascade into behavioral traits, further reducing the dimensionality of the control problem
 - [[enforcing-behavioral-norms-in-llm-agents-requires-a-three-stage-research-pipeline|Enforcing behavioral norms in LLM agents requires a three-stage research pipeline]] — Synthesizes the above into a sequential research program: taxonomy → mapping → heuristics, with dependencies between stages
+- [[agency-in-ai-agents-is-loaned-by-the-human-and-is-not-intrinsic-to-the-agent|Agency in AI agents is loaned by the human and is not intrinsic to the agent]] — Provides the structural motivation: if agency is loaned rather than intrinsic, representation-level steering is the mechanism by which the human's loaned purposes get encoded into the agent's actions
 
 ## Borderline / Adjacent
 
@@ -30,3 +31,4 @@ Can LLM agent behavior be controlled at the representation level (activation spa
 
 - [[intelligence-as-a-property-of-social-systems-not-individual-agents]] — The institutional templates concept motivates the need for behavioral enforcement; this cluster proposes the mechanism
 - [[the-multi-agent-conversation-problem-decomposes-into-specific-subproblems]] — Conversation mechanics are the context in which behavioral steering would operate; the observer/thinker/speaker architecture would need to integrate with steering
+- [[loaned-agency-why-the-human-agent-loop-is-permanent-not-transitional|Loaned Agency: Why the Human-Agent Loop Is Permanent, Not Transitional]] — Provides the deep motivation for representation-level steering: agency comes from outside the agent, and representation is the layer where the external force gets implemented
