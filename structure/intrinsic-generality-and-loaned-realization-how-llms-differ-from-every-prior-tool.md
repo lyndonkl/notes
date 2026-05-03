@@ -17,6 +17,7 @@ The historical novelty of LLMs is not "as capable as humans" but the combination
 - [[language-models-are-strong-at-exploration-but-bounded-at-exploitation|Language models are strong at exploration but bounded at exploitation]] — The empirical boundary: maps where realization succeeds and where it requires human completion
 - [[language-models-reliably-complete-60-to-90-percent-of-a-task-with-the-remaining-gap-requiring-varying-degrees-of-human-effort|Language models reliably complete 60 to 90 percent of a task with the remaining gap requiring varying degrees of human effort]] — The refinement: quantifies the loaning pattern across diverse domains
 - [[the-gap-between-language-model-output-and-complete-work-lives-at-the-act-of-decision-moment-not-the-analysis-moment|The gap between language model output and complete work lives at the act-of-decision moment not the analysis moment]] — Locates the boundary: analysis is loaned by the model; decisions remain human
+- [[stacking-attention-layers-tends-to-build-a-hierarchy-from-local-structure-to-abstract-concepts-though-layer-boundaries-are-fuzzy|Stacking attention layers tends to build a hierarchy from local structure to abstract concepts though layer boundaries are fuzzy]] — The architectural mechanism behind intrinsic generality: depth-of-composition is what enables a single architecture to operate across many domains by building abstraction layers that separate local patterns from abstract concepts
 
 ## Borderline / Adjacent
 
